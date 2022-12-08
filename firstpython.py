@@ -1,1 +1,2 @@
-print("New Python file")
+print("Hello World!");
+print("How are u?")
